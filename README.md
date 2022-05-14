@@ -83,15 +83,13 @@ python train-model.py
 ```
 
 
-Any Questions? | Conduct Me 
+Social Media Links
 ---
 
-* [Linkedin Profile](https://www.linkedin.com/in/gunarakulan-gunaratnam-161119156/)
-* [Facebook Profile](https://www.facebook.com/gunarakulan)
+* [Linkedin Profile](https://www.linkedin.com/in/gunarakulangunaretnam/)
+* [Facebook Page](https://www.facebook.com/gunarakulangunaretnam)
 * [Twitter Profile](https://twitter.com/gunarakulang)
-* [Instagram Profile](https://www.instagram.com/gunarakulan_gunaratnam/)
-* [Youtube Channel](https://www.youtube.com/channel/UCMWkED5sabgVZSCKjZuRJXA/videos)
-
-
+* [Instagram Profile](https://www.instagram.com/gunarakulangunaretnam/)
+* [Youtube Channel](https://www.youtube.com/channel/UCMWkED5sabgVZSCKjZuRJXA)
 
 
